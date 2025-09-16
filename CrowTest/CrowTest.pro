@@ -96,10 +96,10 @@ DISTFILES += \
 #DEPENDPATH += F:/iGreatWorks/iGreatWorks_libs/iGreatWorks_libs/boost_1_83_0/boost_1_83_0
 
 # 孙源Y7000P电脑：Crow相关依赖库
-INCLUDEPATH += F:/iGreatWorks/iGreatWorks_libs/iGreatWorks_libs/Crow-1.2.0/include
+#INCLUDEPATH += F:/iGreatWorks/iGreatWorks_libs/iGreatWorks_libs/Crow-1.2.0/include
 
 # 孙源Y7000P电脑：asio相关依赖库
-INCLUDEPATH += F:/iGreatWorks/iGreatWorks_libs/iGreatWorks_libs/asio_1.30.2/asio-1.30.2/include
+#INCLUDEPATH += F:/iGreatWorks/iGreatWorks_libs/iGreatWorks_libs/asio_1.30.2/asio-1.30.2/include
 
 
 # 工作站上的相关依赖库目录
